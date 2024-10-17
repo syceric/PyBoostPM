@@ -1,5 +1,3 @@
-# PyBoostPM
-A Python/Cython implementation of the boostPM model at https://github.com/MaStatLab/boostPM.
 # Unsupervised Tree Boosting
 
 This is a Python/Cython implementation of the "boostPM" model presented in
